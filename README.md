@@ -4,6 +4,20 @@ Este repositorio contiene una aplicación interactiva desarrollada con **Shiny e
 
 ---
 
+💻 Cómo descargar el proyecto en tu equipo
+
+Si quieres probar el proyecto en tu propio ordenador, puedes clonar este repositorio desde GitHub. 
+### 👉 Pasos:
+
+1. Abre una terminal o consola (por ejemplo, Git Bash en Windows).
+2. Ejecuta el siguiente comando para clonar el repositorio:
+
+```
+git clone https://github.com/javierllorenteMon/VisuShinyApp
+```
+
+---
+
 ## 🌟 Funcionalidades destacadas
 
 ### ▶️ Estructura de la interfaz
